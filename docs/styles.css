@@ -3,3 +3,28 @@
     padding:0;
     box-sizing: border-box;
 }
+
+header{
+    text-align: center;
+}
+nav{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#1a1aff;
+    padding:.5rem;
+}
+
+nav ul{
+    list-style-type:none;
+}
+
+nav li{
+    width: 100%;
+    display:inline;
+    padding:3.5rem;
+    margin-left:2rem;   
+}
+
+nav a{
+    color:#ffffff;
+}
